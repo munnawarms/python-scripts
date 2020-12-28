@@ -4,7 +4,7 @@ python gaming codes
 Requirements For Windows
 1. You need to have python installed. It doesn’t have to be the latest version as there are several. The one I’ve used is Python 3.8. Here is a helpful link: https://www.python.org/downloads/
 
-2. Also you need to have Anaconda which is similar to python but it is a package. Here is a helpful link:  https://docs.anaconda.com/anaconda/install/windows/ (The link above will let you install anaconda for windows, macOS, Linux & Linux POWER) From that package there will be multiple items to launch, we will launch something called Spyder (which also has several versions). I have Spyder4. This is like a notepad but is inbuilt with python variables and commands.
+2. Also you need to have Anaconda which is similar to python but it is a package. Here is a helpful link:  https://docs.anaconda.com/anaconda/install/windows/ (This link will let you install anaconda for windows, macOS, Linux & Linux POWER) From that package there will be multiple items to launch, we will launch something called Spyder (which also has several versions). I have Spyder4. This is like a notepad but is inbuilt with python variables and commands.
 
 3. Go to https://www.dk.com/uk/information/computer-coding/ and download a zip folder “Python Games Resource Pack”. If you don’t have this “Computer coding python games book” Then download it from https://www.google.co.uk/  or from https://www.pdfdrive.com/. 
 
