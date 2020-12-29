@@ -6,7 +6,7 @@ Requirements For Windows
 
 2. Also you need to have Anaconda which is similar to python but it is a package. Here is a helpful link:  https://docs.anaconda.com/anaconda/install/windows/ (This link will let you install anaconda for windows, macOS, Linux & Linux POWER) From that package there will be multiple items to launch, we will launch something called Spyder (which also has several versions). I have Spyder4. This is like a notepad but is inbuilt with python variables and commands.
 
-3. Go to https://www.dk.com/uk/information/computer-coding/ and download a zip folder “Python Games Resource Pack”. If you don’t have this “Computer coding python games book” Then download it from https://www.google.co.uk/  or from https://www.pdfdrive.com/. 
+3. Go to https://www.dk.com/uk/information/computer-coding/ and download a zip folder “Python Games Resource Pack”.
 
 4. Open “File Explorer” and go into “Desktop”. Where it says “This PC” and ”Desktop” in the right hand top corner type cmd. Then a black screen with your PC’s version and details. CMD is a command prompt.
 
