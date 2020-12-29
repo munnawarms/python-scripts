@@ -119,7 +119,8 @@ def update_lairs():
         elif lair["dragon"].image == "dragon-awake":
             update_waking_dragon(lair)
             update_egg(lair)
-    clock.schedule_interval(update_lairs, 1)
+            
+clock.schedule_interval(update_lairs, 1)
         
 def update_sleeping_dragon(lair):
     if lair["sleep_counter"] >= lair["sleep_length"]:
